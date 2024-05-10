@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/PavithraD23004871/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955967/2279b354-fc28-41cd-8a79-ecf569862e1f)
+
+### Name:PAVITHRA D
+### Register Number:212223230146
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
